@@ -7,13 +7,17 @@ font-family:Arial, Arial, Helvetica, sans-serif;
     display:flex;
     padding:10px;
     margin:10px;
+    margin-bottom: 30px;
     background:#BF8339;
+    border-radius:5px;
+    box-shadow: 5px 8px #401201;
 }
 
 .assignment img {
     width:200px;
     border:2px solid #BC4D3F;
     margin-right:20px;
+    border-radius:5px;
 }
 
 
@@ -25,4 +29,8 @@ h1 {
 a {
     text-decoration:none;
     color:#fff;
+}
+
+.assignment a {
+    color:#401201;
 }
